@@ -1,1 +1,1 @@
-# CortexLogger-CLI
+# trace-logger-cli
